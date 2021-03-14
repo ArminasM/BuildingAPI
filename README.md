@@ -4,7 +4,7 @@ REST API for a simple real estate registry for buildings.
 
 ## Documentation
 
-[SWAGGER](https://app.swaggerhub.com/apis-docs/ArminasM/ArminasBuildings/0.2)
+[Swagger](https://app.swaggerhub.com/apis-docs/ArminasM/ArminasBuildings/0.2)
 
 ## Running the application
 
