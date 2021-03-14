@@ -11,10 +11,9 @@ public class ApplicationTest {
     @Autowired
     private RequestController controller;
 
-
     @Test
     public void contextLoads() throws Exception {
-        assert(controller != null);
+        Initialisation.main(new String[] {});
     }
 
 }

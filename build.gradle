@@ -15,8 +15,8 @@ repositories {
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
-	implementation 'junit:junit:4.12'
 	runtime 'com.h2database:h2:1.4.199'
+	testImplementation 'junit:junit:4.12'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	testImplementation 'org.apache.httpcomponents.client5:httpclient5:5.0.3'
 	testImplementation 'org.hamcrest:hamcrest:2.2'

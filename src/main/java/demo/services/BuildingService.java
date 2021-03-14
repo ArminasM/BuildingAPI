@@ -14,6 +14,7 @@ public class BuildingService
 {
     @Autowired
     BuildingRepository buildingRepository;
+
     //getting all building records
     public List<Building> getAllBuildings()
     {
