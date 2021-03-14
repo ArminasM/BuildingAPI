@@ -29,11 +29,11 @@ You might need to add their extensions if using chrome. However, you may downloa
 
 The app uses temporary in-memory h2 database, you can access the console [Here](http://localhost:8080/h2-console/login.jsp) during runtime.
 
-The username: <span style="color:lightblue">sa</span>
+The username: **sa**
 
 The password(empty):
 
-Driver Class: <span style="color:lightblue">org.h2.Driver</span>
+Driver Class: **org.h2.Driver**
 
-JDBC url: <span style="color:lightblue">jdbc:h2:mem:test</span>
+JDBC url: **jdbc:h2:mem:test**
 
